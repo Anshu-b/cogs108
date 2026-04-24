@@ -883,7 +883,7 @@ layout: none
 
         <section class="hero">
             <div class="hero-panel">
-                <p class="eyebrow">DSC 40A in-class game</p>
+                <p class="eyebrow">COGS 108 in-class game</p>
                 <h1>Multi-Armed Bandit Tournament</h1>
                 <p class="hero-text">
                     Each round has four shuffled slot machines with different hidden payout rates. Your job is to learn quickly, update your beliefs after every pull, and then exploit the strongest machine before the round ends. The leaderboard should rank students by <strong>Skill Score</strong>, which rewards choosing strong machines across the full tournament, not just getting lucky in one round.

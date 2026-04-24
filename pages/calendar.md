@@ -1,21 +1,23 @@
 ---
 layout: page
-title: 📆 Calendar
-description: Google Calendar containing all course events.
+title: 🗓️ Office Hours
+description: Course staff office hours and contact information.
 nav_order: 3
 ---
 
-# 📆 Calendar
+# Office Hours Schedule
 
-Most office hours are held in person in the Halıcıoğlu Data Science Institute. Office hours held remotely will have zoom links.
-
-### Remote OHs
-- Kyle's ➡️ Friday 3:30 PM - 4:30 PM PST [zoom link](https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09)
-
-
-### In-person OHs
-- TBD (check course homepage calendar for updates)
-
-<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&title=DSC%2040a%20-%20Wi26&src=Y184OWQ0NmJmY2VkOTk4YmY3NjIzZTFhZWE4NTU4MjVmM2Q2MWE4ZTQ5ZjZlZjY4YWRiZjlkZTRiN2FmZDU3YjlhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230b8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=DSC%2040a%20Winter%202026&src=Y185YzdmYTg0YzE5NTVkY2I4NDI4ZmNlYTJkMDBjYTUzZTBlODgxODExOTMwMDUwYjcxNGM1Mzc2NzgyMTM5YWQzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f6bf26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+| Role | Name | Section | Office Hours | Contact |
+| ------------:|:--------------------|:-----------------|:-------------|:-------------|
+| Instructor | Jason Fleischer | --- | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| TA | Jason Chen | B01/B05 | Fri 10:30am - 12:30pm [signup required](https://calendar.app.google/WS6hq1Ae1Spc8Sfk9) | xic007@ucsd.edu |
+| TA | Beijie (Jessica) Cheng | A02/A03/A06 | Tue 11:00am - 1:00pm [signup required](https://calendar.app.google/MojfGZutgUUkuvoS6) | becheng@ucsd.edu |
+| TA | Yueying (Holly) Dong | TBD | Mon 10:00am - 12:00am, [signup required](https://calendar.app.google/aZ5zijUnd8VM3FBB6) | yud070@ucsd.edu |
+| TA | Chaitanya Kapoor | A08/B06/B08 | Mon 8:00am - 10:00am, [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
+| TA | Shreya Musini | A04/A05/A07 | Mon 2:00pm - 4:00pm [signup required](https://calendar.app.google/nan6HJmCQ4bKkn9J6) | shmusini@ucsd.edu |
+| TA | Zhicheng (Jackson) Wang | TBD | Thur 4:00 - 6:00pm, [signup required](https://calendar.app.google/gisLJTgXoJEvLm9q7) | zhw049@ucsd.edu |
+| PLA | Anchita Dash | --- | Thur 3:00pm - 4:00pm [zoom link](https://ucsd.zoom.us/j/6695882735?pwd=8BfPFLmClPfODcvYbjTnUHxGruJqWe.1) | a1dash@ucsd.edu |
+| PLA | Domenic Jernigan | --- | Wed 4:00 - 5:30pm @COA B26 (no OH week 4/8) | djernigan@ucsd.edu |
+| PLA | Sierra Peng | --- | Thur 11:30am - 1:00pm, [zoom link](https://ucsd.zoom.us/j/91907559856) | sepeng@ucsd.edu |
+| PLA | Ansh Bhatnagar | --- | Wed 12:00pm - 1:00pm, DIB 1st Floor | abhatnagar@ucsd.edu |
+| PLA | Jeronimo Adames | --- | Fri 3:30pm - 4:30pm, CENTR 206 | jadamesbaena@ucsd.edu |

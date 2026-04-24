@@ -21,12 +21,12 @@
 # where jekyll build command dumps the site
 destination: docs/
 
-title: DSC 40A
+title: COGS 108
 email: kshannon@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  DSC 40A, Winter 2026 at UC San Diego
-title: DSC 40A
-tagline: Theoretical Foundations of Data Science I
+  COGS 108, Spring 2026 at UC San Diego
+title: COGS 108
+tagline: Data Science in Practice
 
 # Site URL. `baseurl` is injected at build time by the GitHub Actions workflow
 # via `--baseurl "${{ steps.pages.outputs.base_path }}"`, so it adapts
@@ -82,6 +82,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .data/ #user specific excludes here...
+  - docs
+  - dev-docs
 
 # Aux link for the upper right navigation
 aux_links:
@@ -94,11 +96,11 @@ aux_links:
 aux_links_new_tab: true
 
 # Change this to choose where to pick data from
-data_folder: wi26
+data_folder: sp26
 
 # Config JTD UI elements here
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: darkcsd
 
 callouts_level: quiet # or loud
 callouts:

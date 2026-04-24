@@ -81,7 +81,7 @@ These resources were created by tutors as part of their Final Project for DSC 95
 
 ## Probability
 
-Unlike the first half of the course, where we had course notes written specifically for this class, we don't have DSC 40A-specific notes for the second half of the class, because there are many high-quality resources available online that cover the same material. Below, you'll find links to some of these resources.
+Unlike the first half of the course, where we had course notes written specifically for this class, we don't have COGS 108-specific notes for the second half of the class, because there are many high-quality resources available online that cover the same material. Below, you'll find links to some of these resources.
 
 ### Readings and Sources of Practice Problems
 

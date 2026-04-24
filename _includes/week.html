@@ -26,6 +26,7 @@
             {% case event.type %}
             {% when "lecture" %}
             <small>
+              {% if event.slides %} <br><span style="margin-left: 10ch;"><a href="{{ event.slides }}">slides</a></span>{% endif %}
               {% if event.blank %} <br><span style="margin-left: 10ch;"><a href="{{ event.blank }}">blank</a></span>{% endif %}
               {% if event.filled %}<span style="margin-left: 0.5ch;"><a href="{{ event.filled }}">filled</a></span>{% endif %}
               {% if event.code %}<span style="margin-left: 0.5ch;"><a href="{{ event.code }}">code</a></span>{% endif %}

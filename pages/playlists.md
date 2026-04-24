@@ -3,6 +3,7 @@ layout: page
 title: 🎵 Playlists
 description: DSC 100 music, curated by your wonderful course staff!
 nav_order: 8
+nav_exclude: true
 ---
 
 # 🎵 Playlists
@@ -28,4 +29,3 @@ A curated playlist from the musical mind of Jiesen! Welcome to DSC40a.
 ### 60min Math Crunch
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4nsZgOeN0q6A4GldVBCMsR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-

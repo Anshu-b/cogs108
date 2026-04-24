@@ -3,6 +3,7 @@ layout: page
 title: 💃 Demos
 description: Landing page for in-class demo days.
 nav_order: 4
+nav_exclude: true
 ---
 
 # 💃 Demos
