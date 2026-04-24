@@ -18,9 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# where jekyll build command dumps the site
-destination: docs/
-
 title: COGS 108
 email: kshannon@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -41,9 +38,10 @@ baseurl: /dsc40a
 
 
 ###### Build settings
-# remote_theme:
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 search_enabled: true
